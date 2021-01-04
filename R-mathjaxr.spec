@@ -4,7 +4,7 @@
 #
 Name     : R-mathjaxr
 Version  : 1.0.1
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/mathjaxr_1.0-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/mathjaxr_1.0-1.tar.gz
 Summary  : Using 'Mathjax' in Rd Files
@@ -28,10 +28,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1609785508
+export SOURCE_DATE_EPOCH=1609789686
 
 %install
-export SOURCE_DATE_EPOCH=1609785508
+export SOURCE_DATE_EPOCH=1609789686
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
