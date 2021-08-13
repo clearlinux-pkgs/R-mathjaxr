@@ -4,7 +4,7 @@
 #
 Name     : R-mathjaxr
 Version  : 1.4.0
-Release  : 10
+Release  : 11
 URL      : https://cran.r-project.org/src/contrib/mathjaxr_1.4-0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/mathjaxr_1.4-0.tar.gz
 Summary  : Using 'Mathjax' in Rd Files
