@@ -4,7 +4,7 @@
 #
 Name     : R-mathjaxr
 Version  : 1.6.0
-Release  : 16
+Release  : 17
 URL      : https://cran.r-project.org/src/contrib/mathjaxr_1.6-0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/mathjaxr_1.6-0.tar.gz
 Summary  : Using 'Mathjax' in Rd Files
